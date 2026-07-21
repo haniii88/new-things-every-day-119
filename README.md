@@ -1,4 +1,4 @@
-/* New Things Every Day — Day 119 */
+/* New Things Every Day — Da 119 */
 /* Analyzes transaction records and creates a summary */
 
 function dailyLog119() {
